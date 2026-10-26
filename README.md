@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Extensions for Lorekeeper__**
+## Extensions for Lorekeeper
 
 ### Mine
 [Character Backgrounds with Foregrounds (v3)](https://github.com/Camyza/lorekeeper/tree/extension/character-backgrounds-foregrounds-v3)
