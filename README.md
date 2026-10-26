@@ -3,9 +3,9 @@
 ## Extensions for Lorekeeper
 
 ### Mine
-[Character Backgrounds with Foregrounds (v3)](https://github.com/Camyza/lorekeeper/tree/extension/character-backgrounds-foregrounds-v3)
+[Character Backgrounds with Foregrounds (v3)](https://github.com/Camyza/lorekeeper/tree/extension/character-backgrounds-foregrounds-v3), thanks to Uri and Frank
 
-[Character Foregrounds Only (v3)](https://github.com/Camyza/lorekeeper/tree/extension/character-foregrounds-v3) 
+[Character Foregrounds Only (v3)](https://github.com/Camyza/lorekeeper/tree/extension/character-foregrounds-v3), thanks to Uri and Frank 
 
 [Profile Header Image (v2)](https://github.com/Camyza/lorekeeper/tree/extension/profile-header-image)
 
@@ -18,7 +18,7 @@
 [User Watching (v3)](https://github.com/Camyza/lorekeeper/tree/extension/user-watching-v3)
 
 ### By others that I ported for v3
-[Criteria Rewards (v3)](https://github.com/Camyza/lorekeeper/tree/extension/criteria-rewards-v3), thanks to Newt and Moif)
+[Criteria Rewards (v3)](https://github.com/Camyza/lorekeeper/tree/extension/criteria-rewards-v3), thanks to Newt and Moif.
 
 
 
