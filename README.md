@@ -1,8 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
-**__Extensions for Lorekeeper__**
+## Extensions for Lorekeeper__**
 
-**Mine**
+### Mine
 [Character Backgrounds with Foregrounds (v3)](https://github.com/Camyza/lorekeeper/tree/extension/character-backgrounds-foregrounds-v3)
 
 [Character Foregrounds Only (v3)](https://github.com/Camyza/lorekeeper/tree/extension/character-foregrounds-v3) 
@@ -17,7 +17,7 @@
 
 [User Watching (v3)](https://github.com/Camyza/lorekeeper/tree/extension/user-watching-v3)
 
-**By others that I ported**
+### By others that I ported for v3
 [Criteria Rewards (v3, thanks to Newt and Moif)](https://github.com/Camyza/lorekeeper/tree/extension/criteria-rewards-v3)
 
 
