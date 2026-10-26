@@ -18,7 +18,7 @@
 [User Watching (v3)](https://github.com/Camyza/lorekeeper/tree/extension/user-watching-v3)
 
 ### By others that I ported for v3
-[Criteria Rewards (v3, thanks to Newt and Moif)](https://github.com/Camyza/lorekeeper/tree/extension/criteria-rewards-v3)
+[Criteria Rewards (v3)](https://github.com/Camyza/lorekeeper/tree/extension/criteria-rewards-v3), thanks to Newt and Moif)
 
 
 
